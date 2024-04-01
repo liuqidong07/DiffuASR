@@ -1,12 +1,3 @@
-# -*- encoding: utf-8 -*-
-'''
-@File    :   diffusion_trainer.py
-@Time    :   2023/02/21 09:53:13
-@Author  :   Liu Qidong
-@Version :   1.0
-@Contact :   dong_liuqi@163.com
-'''
-
 # here put the import lib
 import os
 import numpy as np
